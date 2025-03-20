@@ -5,7 +5,6 @@ import pandas as pd
 from typing import List, Dict, Optional
 import logging
 import random
-from streamlit_echarts import st_echarts
 import base64
 
 # Configure logging
